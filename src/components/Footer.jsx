@@ -80,7 +80,7 @@ function ArrowIcon(props) {
 
 function NewsletterForm() {
   return (
-    <form className="max-w-sm">
+    <form className="max-w-sm" method="POST" data-netlify="true">
       <h2 className="font-display text-sm font-semibold tracking-wider text-neutral-950">
         Sign up for our launch
       </h2>

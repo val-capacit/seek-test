@@ -16,12 +16,12 @@ export default function NotFound() {
         <p className="mt-2 text-sm text-neutral-600">
           Write your email here and we will ping you when the product is ready for the mass.
         </p>
-        <Link
+        {/*<Link
           href="/"
           className="mt-4 text-sm font-semibold text-neutral-950 transition hover:text-neutral-700"
         >
           Go to the home page and get it.
-        </Link>
+        </Link>*/}
       </FadeIn>
     </Container>
   )
