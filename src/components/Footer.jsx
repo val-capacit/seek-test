@@ -82,11 +82,10 @@ function NewsletterForm() {
   return (
     <form className="max-w-sm">
       <h2 className="font-display text-sm font-semibold tracking-wider text-neutral-950">
-        Sign up for our newsletter
+        Sign up for our launch
       </h2>
       <p className="mt-4 text-sm text-neutral-700">
-        Subscribe to get the latest design news, articles, resources and
-        inspiration.
+        We're officially launching for everyone in late september 2023. Sign up to get a notification.
       </p>
       <div className="relative mt-6">
         <input

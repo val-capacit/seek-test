@@ -8,13 +8,13 @@ export default function NotFound() {
     <Container className="flex h-full items-center pt-24 sm:pt-32 lg:pt-40">
       <FadeIn className="flex max-w-xl flex-col items-center text-center">
         <p className="font-display text-4xl font-semibold text-neutral-950 sm:text-5xl">
-          404
+          Coming soon
         </p>
         <h1 className="mt-4 font-display text-2xl font-semibold text-neutral-950">
-          Page not found
+          We're launcing in late September 2023
         </h1>
         <p className="mt-2 text-sm text-neutral-600">
-          Sorry, we couldn’t find the page you’re looking for. Better get a chatbot.
+          Write your email here and we will ping you when the product is ready for the mass.
         </p>
         <Link
           href="/"
