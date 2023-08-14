@@ -169,7 +169,7 @@ export default async function Home() {
       <Container className="mt-24 sm:mt-32 md:mt-56">
         <FadeIn className="max-w-3xl">
         <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-7xl">
-  Unleash your <span style={{ color: '#6C72FF' }}>data</span> to empower your <span style={{ color: '#6C72FF' }}>conversations</span>.
+  please Unleash your <span style={{ color: '#6C72FF' }}>data</span> to empower your <span style={{ color: '#6C72FF' }}>conversations</span>.
 </h1>
           <p className="mt-6 text-xl text-neutral-600">
           Seek allows you to create highly personalised chatbots that integrate seamlessly with your specific data, offering a customised and efficient customer engagement experience.          </p>
