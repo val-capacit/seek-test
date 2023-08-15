@@ -1155,6 +1155,9 @@ video {
 .rounded-xl {
     border-radius: 0.75rem
 }
+.rounded-lg {
+    border-radius: 0.5rem
+}
 .rounded-t-4xl {
     border-top-left-radius: 2.5rem;
     border-top-right-radius: 2.5rem

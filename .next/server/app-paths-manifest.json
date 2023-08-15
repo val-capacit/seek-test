@@ -1,6 +1,7 @@
 {
   "/page": "app/page.js",
-  "/not-found": "app/not-found.js",
   "/about/page": "app/about/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/blog/3-lessons-we-learned-going-back-to-the-office/page": "app/blog/3-lessons-we-learned-going-back-to-the-office/page.js",
   "/blog/future-of-web-development/page": "app/blog/future-of-web-development/page.js"
 }
