@@ -184,7 +184,7 @@ export default async function Home() {
           <Image
                             alt=""
                             {...ChatImage}
-                            className="lg:w-[800px] w-96 object-cover shadow-lg rounded-lg
+                            className="lg:w-[400px] w-96 object-cover shadow-lg rounded-lg
                             "
                           />
                             </div>

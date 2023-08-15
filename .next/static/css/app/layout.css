@@ -2155,6 +2155,15 @@ video {
     .lg\:w-\[800px\] {
         width: 800px
     }
+    .lg\:w-\[500px\] {
+        width: 500px
+    }
+    .lg\:w-\[300px\] {
+        width: 300px
+    }
+    .lg\:w-\[400px\] {
+        width: 400px
+    }
     .lg\:min-w-\[33rem\] {
         min-width: 33rem
     }
