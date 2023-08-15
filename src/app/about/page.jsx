@@ -205,7 +205,7 @@ export default async function About() {
         <StatList>
           <StatListItem value="10" label="Products" />
           <StatListItem value="52" label="Employees" />
-          <StatListItem value="$1M" label="Annual Revenue" />
+          {/*<StatListItem value="$1M" label="Annual Revenue" />*/}
         </StatList>
       </Container>
 

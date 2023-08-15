@@ -167,18 +167,14 @@ function Values() {
 
       <Container className="mt-24">
         <GridList>
-          <GridListItem title="Tier 1, 300 $/mo">
-            Up to 20 MB data. The first part of any partnership is getting our designer to put
-            your logo in our template. The second step is getting them to do the
-            colors.
+          <GridListItem title="Plug and Play, 150 $/mo">
+            With our intuitive dashboard you can plug and play your data to become a chatbot. Get started today.
           </GridListItem>
-          <GridListItem title="Tier 2, 500 $/mo">
-            Up to 1 GB data. We pride ourselves on never missing a deadline which is easy because
-            most of the work was done years ago.
+          <GridListItem title="Custom solution, contact us">
+            Do you have way too much and complex data? We'll build it for you!
           </GridListItem>
-          <GridListItem title="Tier 3, 700 $/mo">
-            Unlimited data. Every business has unique needs and our greatest challenge is
-            shoe-horning those needs into something we already built.
+          <GridListItem title="ETL, contact us">
+            Want access to our engines and build ever yourself? Be our guests!
           </GridListItem>
           {/* 
           <GridListItem title="Honest">
@@ -208,7 +204,7 @@ export const metadata = {
 export default function Process() {
   return (
     <>
-      <PageIntro eyebrow="Light it up" title="Get started">
+      <PageIntro eyebrow="Light it up" title="Coming late september 2023">
         <p>
         Get started with Seek today and revolutionize your data interactions. 
         Unleash the power of AI chatbots tailored to your data, enhancing support, insights, and innovation for your business.
