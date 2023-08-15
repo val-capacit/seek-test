@@ -77,7 +77,7 @@ function ArrowIcon(props) {
     </svg>
   )
 }
-
+{/*
 function NewsletterForm() {
   return (
     <form name="signup" className="max-w-sm" method="POST" data-netlify="true">
@@ -89,11 +89,11 @@ function NewsletterForm() {
       </p>
       <div className="relative mt-6">
         <input
+          name="signup"
           type="email"
-          placeholder="Email address"
+          placeholder="Email a"
           autoComplete="email"
           aria-label="Email address"
-          name="email"
           className="block w-full rounded-2xl border border-neutral-300 bg-transparent py-4 pl-6 pr-20 text-base/6 text-neutral-950 ring-4 ring-transparent transition placeholder:text-neutral-500 focus:border-neutral-950 focus:outline-none focus:ring-neutral-950/5"
         />
         <div className="absolute inset-y-1 right-1 flex justify-end">
@@ -108,7 +108,7 @@ function NewsletterForm() {
       </div>
     </form>
   )
-}
+}*/}
 
 export function Footer() {
   return (
@@ -117,7 +117,7 @@ export function Footer() {
         <div className="grid grid-cols-1 gap-x-8 gap-y-16 lg:grid-cols-2">
           <Navigation />
           <div className="flex lg:justify-end">
-            <NewsletterForm />
+            {/*<NewsletterForm />*/}
           </div>
         </div>
         <div className="mb-20 mt-24 flex flex-wrap items-end justify-between gap-x-6 gap-y-4 border-t border-neutral-950/10 pt-12">

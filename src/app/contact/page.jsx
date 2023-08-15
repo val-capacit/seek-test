@@ -1,3 +1,4 @@
+import React from 'react'
 import { useId } from 'react'
 import Link from 'next/link'
 
@@ -43,11 +44,16 @@ function RadioInput({ label, ...props }) {
     </label>
   )
 }
-
+/*
 function ContactForm() {
   return (
     <FadeIn className="lg:order-last">
-      <form name="contact2" method="POST" data-netlify="true">
+      <form 
+        name="contact" 
+        method="POST" 
+        data-netlify="true"
+        >
+        <input type="hidden" name="form-name" value="contact"/>
         <h2 className="font-display text-base font-semibold text-neutral-950">
           Text us directly below
         </h2>
@@ -76,7 +82,7 @@ function ContactForm() {
                 <RadioInput label="More than $150K" name="budget" value="150" />
               </div> 
             </fieldset>
-          </div>*/}
+          </div>}
         </div>
         <Button type="submit" className="mt-10">
           Go
@@ -84,7 +90,7 @@ function ContactForm() {
       </form>
     </FadeIn>
   )
-}
+}*/
 
 function ContactDetails() {
   return (
@@ -141,15 +147,15 @@ export default function Contact() {
   return (
     <>
       <PageIntro eyebrow="Contact us" title="Let’s work together">
-        <p>We can’t wait to hear from you.</p>
+        <p>Mail us at hello@getseek.ai</p>
       </PageIntro>
-
+{/*
       <Container className="mt-24 sm:mt-32 lg:mt-40">
         <div className="grid grid-cols-1 gap-x-8 gap-y-24 lg:grid-cols-2">
           <ContactForm />
           <ContactDetails />
         </div>
-      </Container>
+      </Container>*/}
     </>
   )
 }
