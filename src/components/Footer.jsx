@@ -10,7 +10,7 @@ const navigation = [
     title: 'Work',
     links: [
       { title: 'Capacit', href: '/work/family-fund' },
-      { title: 'Real-Time LCA', href: '/work/unseal' },
+      { title: 'Built', href: '/work/unseal' },
       { title: 'Tracie', href: '/work/phobia' },
       {
         title: (
