@@ -14,7 +14,7 @@ export default function NotFound() {
           We're launcing in late September 2023.
         </h1>
         <p className="mt-2 text-sm text-neutral-600">
-          Write your email in the footer and we will ping you when the product is ready for the mass.
+          Write us an email on hello@getseek.ai and we will get back to you when we launch.
         </p>
         {/*<Link
           href="/"
