@@ -57,32 +57,6 @@ const e0 = proxy["GrayscaleTransitionImage"];
 
 /***/ }),
 
-/***/ "(rsc)/./src/components/GridPattern.jsx":
-/*!****************************************!*\
-  !*** ./src/components/GridPattern.jsx ***!
-  \****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   GridPattern: () => (/* binding */ e0)
-/* harmony export */ });
-/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/Users/valdemarostergaard/capacit/seek-test/src/components/GridPattern.jsx`)
-
-// Accessing the __esModule property and exporting $$typeof are required here.
-// The __esModule getter forces the proxy target to create the default export
-// and the $$typeof value is for rendering logic to determine if the module
-// is a client boundary.
-const { __esModule, $$typeof } = proxy;
-const __default__ = proxy.default;
-
-const e0 = proxy["GridPattern"];
-
-
-/***/ }),
-
 /***/ "(rsc)/./src/components/MDXComponents.jsx":
 /*!******************************************!*\
   !*** ./src/components/MDXComponents.jsx ***!
@@ -130,16 +104,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   TagList: () => (/* binding */ TagList),\n/* harmony export */   TagListItem: () => (/* binding */ TagListItem)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var clsx__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! clsx */ \"(rsc)/./node_modules/clsx/dist/clsx.js\");\n/* harmony import */ var clsx__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(clsx__WEBPACK_IMPORTED_MODULE_1__);\n\n\nfunction TagList({ className, children }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"ul\", {\n        role: \"list\",\n        className: clsx__WEBPACK_IMPORTED_MODULE_1___default()(className, \"flex flex-wrap gap-4\"),\n        children: children\n    }, void 0, false, {\n        fileName: \"/Users/valdemarostergaard/capacit/seek-test/src/components/TagList.jsx\",\n        lineNumber: 5,\n        columnNumber: 5\n    }, this);\n}\nfunction TagListItem({ className, children }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"li\", {\n        className: clsx__WEBPACK_IMPORTED_MODULE_1___default()(\"rounded-full bg-neutral-100 px-4 py-1.5 text-base text-neutral-600\", className),\n        children: children\n    }, void 0, false, {\n        fileName: \"/Users/valdemarostergaard/capacit/seek-test/src/components/TagList.jsx\",\n        lineNumber: 13,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9zcmMvY29tcG9uZW50cy9UYWdMaXN0LmpzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7O0FBQXVCO0FBRWhCLFNBQVNDLFFBQVEsRUFBRUMsU0FBUyxFQUFFQyxRQUFRLEVBQUU7SUFDN0MscUJBQ0UsOERBQUNDO1FBQUdDLE1BQUs7UUFBT0gsV0FBV0YsMkNBQUlBLENBQUNFLFdBQVc7a0JBQ3hDQzs7Ozs7O0FBR1A7QUFFTyxTQUFTRyxZQUFZLEVBQUVKLFNBQVMsRUFBRUMsUUFBUSxFQUFFO0lBQ2pELHFCQUNFLDhEQUFDSTtRQUNDTCxXQUFXRiwyQ0FBSUEsQ0FDYixzRUFDQUU7a0JBR0RDOzs7Ozs7QUFHUCIsInNvdXJjZXMiOlsid2VicGFjazovL3RhaWx3aW5kdWktc3R1ZGlvLy4vc3JjL2NvbXBvbmVudHMvVGFnTGlzdC5qc3g/NGIxMSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgY2xzeCBmcm9tICdjbHN4J1xuXG5leHBvcnQgZnVuY3Rpb24gVGFnTGlzdCh7IGNsYXNzTmFtZSwgY2hpbGRyZW4gfSkge1xuICByZXR1cm4gKFxuICAgIDx1bCByb2xlPVwibGlzdFwiIGNsYXNzTmFtZT17Y2xzeChjbGFzc05hbWUsICdmbGV4IGZsZXgtd3JhcCBnYXAtNCcpfT5cbiAgICAgIHtjaGlsZHJlbn1cbiAgICA8L3VsPlxuICApXG59XG5cbmV4cG9ydCBmdW5jdGlvbiBUYWdMaXN0SXRlbSh7IGNsYXNzTmFtZSwgY2hpbGRyZW4gfSkge1xuICByZXR1cm4gKFxuICAgIDxsaVxuICAgICAgY2xhc3NOYW1lPXtjbHN4KFxuICAgICAgICAncm91bmRlZC1mdWxsIGJnLW5ldXRyYWwtMTAwIHB4LTQgcHktMS41IHRleHQtYmFzZSB0ZXh0LW5ldXRyYWwtNjAwJyxcbiAgICAgICAgY2xhc3NOYW1lXG4gICAgICApfVxuICAgID5cbiAgICAgIHtjaGlsZHJlbn1cbiAgICA8L2xpPlxuICApXG59XG4iXSwibmFtZXMiOlsiY2xzeCIsIlRhZ0xpc3QiLCJjbGFzc05hbWUiLCJjaGlsZHJlbiIsInVsIiwicm9sZSIsIlRhZ0xpc3RJdGVtIiwibGkiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./src/components/TagList.jsx\n");
-
-/***/ }),
-
-/***/ "(rsc)/./src/lib/formatDate.js":
-/*!*******************************!*\
-  !*** ./src/lib/formatDate.js ***!
-  \*******************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   formatDate: () => (/* binding */ formatDate)\n/* harmony export */ });\nfunction formatDate(dateString) {\n    let parts = dateString.split(\"-\");\n    let hasDay = parts.length > 2;\n    return new Date(`${dateString}Z`).toLocaleDateString(\"en-US\", {\n        day: hasDay ? \"numeric\" : undefined,\n        month: \"long\",\n        year: \"numeric\",\n        timeZone: \"UTC\"\n    });\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9zcmMvbGliL2Zvcm1hdERhdGUuanMiLCJtYXBwaW5ncyI6Ijs7OztBQUFPLFNBQVNBLFdBQVdDLFVBQVU7SUFDbkMsSUFBSUMsUUFBUUQsV0FBV0UsS0FBSyxDQUFDO0lBQzdCLElBQUlDLFNBQVNGLE1BQU1HLE1BQU0sR0FBRztJQUU1QixPQUFPLElBQUlDLEtBQUssQ0FBQyxFQUFFTCxXQUFXLENBQUMsQ0FBQyxFQUFFTSxrQkFBa0IsQ0FBQyxTQUFTO1FBQzVEQyxLQUFLSixTQUFTLFlBQVlLO1FBQzFCQyxPQUFPO1FBQ1BDLE1BQU07UUFDTkMsVUFBVTtJQUNaO0FBQ0YiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly90YWlsd2luZHVpLXN0dWRpby8uL3NyYy9saWIvZm9ybWF0RGF0ZS5qcz81OTFiIl0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBmdW5jdGlvbiBmb3JtYXREYXRlKGRhdGVTdHJpbmcpIHtcbiAgbGV0IHBhcnRzID0gZGF0ZVN0cmluZy5zcGxpdCgnLScpXG4gIGxldCBoYXNEYXkgPSBwYXJ0cy5sZW5ndGggPiAyXG5cbiAgcmV0dXJuIG5ldyBEYXRlKGAke2RhdGVTdHJpbmd9WmApLnRvTG9jYWxlRGF0ZVN0cmluZygnZW4tVVMnLCB7XG4gICAgZGF5OiBoYXNEYXkgPyAnbnVtZXJpYycgOiB1bmRlZmluZWQsXG4gICAgbW9udGg6ICdsb25nJyxcbiAgICB5ZWFyOiAnbnVtZXJpYycsXG4gICAgdGltZVpvbmU6ICdVVEMnLFxuICB9KVxufVxuIl0sIm5hbWVzIjpbImZvcm1hdERhdGUiLCJkYXRlU3RyaW5nIiwicGFydHMiLCJzcGxpdCIsImhhc0RheSIsImxlbmd0aCIsIkRhdGUiLCJ0b0xvY2FsZURhdGVTdHJpbmciLCJkYXkiLCJ1bmRlZmluZWQiLCJtb250aCIsInllYXIiLCJ0aW1lWm9uZSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(rsc)/./src/lib/formatDate.js\n");
 
 /***/ })
 

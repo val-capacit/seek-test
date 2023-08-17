@@ -14,7 +14,7 @@ export default function NotFound() {
           We're launcing in late September 2023.
         </h1>
         <p className="mt-2 text-sm text-neutral-600">
-          Write us an email on hello@getseek.ai and we will get back to you when we launch.
+          Write us an email on val@capacit.com and we will get back to you when we launch.
         </p>
         {/*<Link
           href="/"
